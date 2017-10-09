@@ -75,10 +75,6 @@ a[class="disabled"] {
     color: gold;
 }
 
-.promo .disabled {
-    color: gold;
-}
-
 /* Without adding any other attributes to the input fields in the footer, write a CSS selector that makes any text input field have a height of 25px. */
 input[type="text"] {
     height: 25px;
